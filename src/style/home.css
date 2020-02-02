@@ -1,0 +1,11 @@
+@import './common.scss';
+::placeholder {
+    color: red
+}
+.test {
+    color: blue;
+    font-size: 30px
+}
+.test1 {
+    color: green
+}
